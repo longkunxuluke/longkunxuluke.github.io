@@ -22,7 +22,7 @@ please learn more from my [2019 JPCA paper](https://pubs.acs.org/doi/abs/10.1021
 ## 3. Non-equilibrium solvation and solvent reorganization; 
 please learn more from my [2017 CPL paper](https://www.sciencedirect.com/science/article/abs/pii/S000926141730427X)
 
-![Non-equilibrium solvation and solvent reorganization](/images/2018PCCP.jpg)
+![Non-equilibrium solvation and solvent reorganization](/images/2017CPL.jpg)
 
 The full list of my publications can be found from the google scholar in the left sidebar.
 
