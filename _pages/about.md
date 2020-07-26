@@ -26,14 +26,9 @@ please learn more from my [2017 CPL paper](https://www.sciencedirect.com/science
 
 The full list of my publications can be found from the google scholar in the left sidebar.
 
-<div align="center">
-<img /imagies/TOC-300dpi.jpg height="330" width="190" >
 
-<img /images/2019JCTC.jpg height="330" width="190" >
 
-<img /images/2017CPL.jpg height="330" width="190" >
 
- </div>
 
 
 
