@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Longkun (Luke) Xu"
-  avatar           : "/images/citations.jpg"
+  avatar           : "citations.jpg"
   bio              : "A PhD student working on computational chemistry at ANU"
   location         : "Canberra, Australia"
   employer         :
