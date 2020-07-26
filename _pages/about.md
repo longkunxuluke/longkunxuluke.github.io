@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This is the personal website about Luke's research."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research is mainly about theoretical and computational chemistry. I develop and apply computational methods to study the effects of electrostatic environment on various chemical properties and reactions. I am particularly interested in the follwing topics:
+1. Ordered solvent and ionic liquids; please learn more from my [2020 JACS paper](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643)
+2. Improving the accuracy of implicit solvent models; please learn more from my [2019 JPCA paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.9b04920) and [2019 JCTC paper](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00888)
+3. Non-equilibrium solvation and solvent reorganization; please learn more from my [2017 CPL paper](https://www.sciencedirect.com/science/article/abs/pii/S000926141730427X)
+
+The full list of my publications can be found from the google scholar in the left sidebar.
 
 A data-driven personal website
 ======
