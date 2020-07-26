@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Longkun Xu, people also call me Luke. I am currently a PhD student in [Prof. Michelle Coote group](http://rsc.anu.edu.au/~mcoote/index.html). I was born in Taian, China in 1993. in 2015, I got my Bachelor's degree at Qingdao Agricultural University. Then I moved to Chengdu, China and did my Master's degree at Sichuan University. Before starting my PhD, I worked shortly as an assistant editor for the journal Materials at MDPI publisher in Beijing, China.
+My name is Longkun Xu, people also call me Luke. I am currently a PhD student in [Prof. Michelle Coote group](http://rsc.anu.edu.au/~mcoote/index.html). I was born in Taian, China in 1993. in 2015, I got my Bachelor's degree at Qingdao Agricultural University. Then I moved to Chengdu and did my Master's degree at Sichuan University. Before starting my PhD, I worked shortly as an assistant editor for the journal Materials at MDPI publisher in Beijing.
 
 My research is mainly about theoretical and computational chemistry. I develop and apply computational methods to study the effects of electrostatic environment on various chemical properties and reactions. I am particularly interested in the follwing topics:
 ## 1. Ordered solvent and ionic liquids; 
@@ -25,7 +25,7 @@ please learn more from my [2017 CPL paper](https://www.sciencedirect.com/science
 
 ![Non-equilibrium solvation and solvent reorganization](/images/2017CPL.jpg)
 
-The full list of my publications can be found from the google scholar in the left sidebar.
+## The full list of my publications can be found from the google scholar in the left sidebar.
 
 
 
