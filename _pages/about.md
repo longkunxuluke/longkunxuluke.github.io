@@ -11,13 +11,13 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 ## Education and Employment
 
-2011 September-2015 July, Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
-
-2015 September-2018 July, Master's degree (Applied Chemistry), Supervisor: Prof. Xiang-Yuan Li, Sichuan University, Chengdu, China
+2018 October-present, PhD student (Chemistry), Supervisor: Prof. Michelle Coote, Australian National University, Canberra, Australia
 
 2018 July-2018 September, Assistant Editor ([Materials](https://www.mdpi.com/journal/materials), [High-Throughput](https://www.mdpi.com/journal/high-throughput)), MDPI publisher, Beijing, China
 
-2018 October-present, PhD student (Chemistry), Supervisor: Prof. Michelle Coote, Australian National University, Canberra, Australia
+2015 September-2018 July, Master's degree (Applied Chemistry), Supervisor: Prof. Xiang-Yuan Li, Sichuan University, Chengdu, China
+
+2011 September-2015 July, Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
 
 ## Research Interests
 
@@ -40,7 +40,15 @@ please learn more from my [2017 CPL paper](https://www.sciencedirect.com/science
 
 ### The full list of my publications can be found from the google scholar in the left sidebar.
 
+## Peer Review
 
+Reviewers for the following journals: [JPCA](https://pubs.acs.org/journal/jpcafh)
+
+## Talks and Posters
+
+2019 October, [APATCC2019](https://www.apatcc2019.com/), poster, Sydney, Australia
+
+2017 June, [ncqc2017](http://www1.chemsoc.org.cn/meeting/home/info.asp?id=202), poster, Dalian, China
 
 
 
