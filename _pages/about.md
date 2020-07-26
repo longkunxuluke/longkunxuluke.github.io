@@ -13,17 +13,17 @@ My research is mainly about theoretical and computational chemistry. I develop a
 ## 1. Ordered solvent and ionic liquids; 
 please learn more from my [2020 JACS paper](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643)
 
-![Ordered solvent and ionic liquids](/images/TOC-300dpi.tif)
+![Ordered solvent and ionic liquids](/images/TOC-300dpi.png)
 
 ## 2. Improving the accuracy of implicit solvent models; 
 please learn more from my [2019 JPCA paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.9b04920) and [2019 JCTC paper](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00888)
 
-![Improving the accuracy of implicit solvent models](/images/2019JCTC.tif)
+![Improving the accuracy of implicit solvent models](/images/2019JCTC.png)
 
 ## 3. Non-equilibrium solvation and solvent reorganization; 
 please learn more from my [2017 CPL paper](https://www.sciencedirect.com/science/article/abs/pii/S000926141730427X)
 
-![Non-equilibrium solvation and solvent reorganization](/images/2017CPL.tif)
+![Non-equilibrium solvation and solvent reorganization](/images/2017CPL.png)
 
 ## The full list of my publications can be found from the google scholar in the left sidebar.
 
