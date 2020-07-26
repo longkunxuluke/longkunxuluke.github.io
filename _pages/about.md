@@ -53,9 +53,13 @@ Reviewers for the following journals: [JPCA](https://pubs.acs.org/journal/jpcafh
 ## Awards and Fellowships
 
 Postgraduate Research Support (2020)
+
 HDR Fee Remission Merit Scholarship (2018-2021)
+
 ANU PhD Scholarship (International) (2018-2021)
+
 Second Class Scholarship for Gruduate Student (2015-2018)
+
 Hailier Scholarship for Outstanding Students (2013)
 
 ## Teaching Service
