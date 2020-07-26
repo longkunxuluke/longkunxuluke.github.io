@@ -25,7 +25,7 @@ please learn more from my [2017 CPL paper](https://www.sciencedirect.com/science
 
 ![Non-equilibrium solvation and solvent reorganization](/images/2017CPL.tif)
 
-# The full list of my publications can be found from the google scholar in the left sidebar.
+## The full list of my publications can be found from the google scholar in the left sidebar.
 
 
 
