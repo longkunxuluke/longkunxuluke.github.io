@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Longkun Xu, people also call me Luke. I am currently a PhD student in [Prof. Michelle Coote group](http://rsc.anu.edu.au/~mcoote/index.html). I was born in Taian, China in 1993. 
+My name is Longkun Xu, people also call me Luke. I am currently a PhD student in [Prof. Michelle Coote group](http://rsc.anu.edu.au/~mcoote/index.html). I was born in Taian, China in 1993. You can find my blog posts above, feel free to let me know your comments and questions via the email in the left sidebar.
 
 ## Education and Employment
 
