@@ -21,7 +21,7 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 ## Research Interests
 
-My research is mainly about theoretical and computational chemistry. I develop and apply computational methods to study the effects of electrostatic environment on various chemical properties and reactions. I am particularly interested in the follwing topics:
+My research is mainly about theoretical and computational chemistry. I develop and apply computational methods to study the effects of electrostatic environment on various chemical properties and reactions. I am particularly interested in the following topics:
 
 ### 1. Ordered solvent and ionic liquids; 
 please learn more from my [2020 JACS paper](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643)
