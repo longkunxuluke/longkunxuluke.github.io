@@ -68,6 +68,6 @@ Teaching assistant for undergraduate course *Physical Chemistry* (2016)
 
 ## News 
 
-
+2020/07/06 My [2020 JACS paper](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643) is reported by a Chinese WeChat official account, see [here](https://mp.weixin.qq.com/s/nCGuLyn8P93AbFXVVCifkA)
 
 
