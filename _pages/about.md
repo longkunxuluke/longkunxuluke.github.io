@@ -31,7 +31,7 @@ Under some conditions, the normal solvent networks can be broken and form ordere
 
 ### 2. Improving the accuracy of implicit solvent models; 
 
-The implicit solvent models together with quantum chemical methods is the main strategy in modelling solution-phase properties and reactions. Thus, its accuracy in producing the solvation free energies is very important. In [2019JPCA](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.9b04920), we disccussed different methods to improve the SMD solvation free energies and associated pKa values. In [2019JCTC](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00888), we presented the optimal electrostatic scaling factor (ESF) values for in a wide range of solvents using PCM-UAHF and PCM-UAKS methods, we proposed the mixed-ESF method to improve the accuracy in calculating solution-phase properties.
+The implicit solvent models together with quantum chemical methods is the main strategy in modelling solution-phase properties and reactions. Thus, its accuracy in producing the solvation free energies is very important. In [2019JPCA](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.9b04920), we disccussed different methods to improve the SMD solvation free energies and associated pKa values. In [2019JCTC](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00888), we presented the optimal electrostatic scaling factor (ESF) values in a wide range of solvents using PCM-UAHF and PCM-UAKS methods, we proposed the mixed-ESF method to improve the accuracy in calculating solution-phase properties.
 
 ![Improving the accuracy of implicit solvent models](/images/2019JCTC.png)
 
