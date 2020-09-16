@@ -23,9 +23,9 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 My research is mainly about theoretical and computational chemistry. I develop and apply computational methods to study the effects of electrostatic environment on various chemical properties and reactions. I am particularly interested in the following topics:
 
-### 1. Ordered solvent and ionic liquids; 
+### 1. Electrostatic catalysis in unusual solvent environment; 
 
-Under some conditions, the normal solvent networks can be broken and form ordered state, this is a very interesting phenomenon. In [2020JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643), employing classical molecular dynamic simulations with the Drude oscillator-based polarizable force field, quantum chemical calculations, and ONIOM (DFT:semi-empirical) multiscale calculations, we investiagted the potential of ordered solvent and ionic liquids in catalysing chemical reactions.
+Achieving electrostatic catalysis in polar solvent is highly desirable, especially in some unusual solvent environment where the mean field approximation is invalid. For example, under some conditions, the normal solvent networks can be broken and the ordered solvent is formed, this is a very interesting phenomenon. In [2020JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643), employing classical molecular dynamic simulations with the Drude oscillator-based polarizable force field, quantum chemical calculations, and ONIOM (DFT:semi-empirical) multiscale calculations, we investiagted the potential of ordered solvent and ionic liquids in catalysing chemical reactions.
 
 ![Ordered solvent and ionic liquids](/images/TOC-300dpi.png)
 
@@ -37,7 +37,7 @@ The implicit solvent models together with quantum chemical methods is the main s
 
 ### 3. Non-equilibrium solvation and solvent reorganization; 
 
-Non-equilibrium solvation is an important conecpt originaly proposed by Porf. Rudolph A. Marcus in his well-known Marcus theory. It is a key factor in modelling the superfast processes in solution phase, for example, electron transfer and electronic excitation. Prof. Xiang-Yuan Li and co-workers have been working on implementing the constrained-equilibrium method in the non-equilibrium solvation theory. In [2017CPL](https://www.sciencedirect.com/science/article/pii/S000926141730427X), we derived the expressions of non-equilibrium solvation free energy within the framework of analytical Onsager model and applied it to model charge-transfer excited state. The theory was developed and implemented in the local Q-Chem program, see [2017PCCP](https://pubs.rsc.org/lv/content/articlehtml/2017/cp/c7cp05673g), [2018 PCCP HOT article](https://pubs.rsc.org/lv/content/articlelanding/2018/cp/c8cp00930a/unauth#!divAbstract) and [2017CP](https://www.sciencedirect.com/science/article/pii/S0301010417301398).
+Non-equilibrium solvation is an important conecpt originaly proposed by Prof. Rudolph A. Marcus in his well-known Marcus theory. It is a key factor in modelling the superfast processes in solution phase, for example, electron transfer and electronic excitation. Prof. Xiang-Yuan Li and co-workers have been working on implementing the constrained-equilibrium method in the non-equilibrium solvation theory. In [2017CPL](https://www.sciencedirect.com/science/article/pii/S000926141730427X), we derived the expressions of non-equilibrium solvation free energy within the framework of analytical Onsager model and applied it to model charge-transfer excited state. The theory was developed and implemented in the local Q-Chem program, see [2017PCCP](https://pubs.rsc.org/lv/content/articlehtml/2017/cp/c7cp05673g), [2018 PCCP HOT article](https://pubs.rsc.org/lv/content/articlelanding/2018/cp/c8cp00930a/unauth#!divAbstract) and [2017CP](https://www.sciencedirect.com/science/article/pii/S0301010417301398).
 
 ![Non-equilibrium solvation and solvent reorganization](/images/2017CPL.png)
 
