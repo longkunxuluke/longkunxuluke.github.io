@@ -27,10 +27,11 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
+$PL                         : Palatino Linotype, serif;
 
-$global-font-family         : $georgia;
-$header-font-family         : $georgia;
-$caption-font-family        : $georgia;
+$global-font-family         : $PL;
+$header-font-family         : $PL;
+$caption-font-family        : $PL;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
