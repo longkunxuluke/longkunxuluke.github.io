@@ -11,11 +11,11 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 ## Education and Employment
 
-2018 October-present, PhD student (Chemistry), Supervisor: Prof. Michelle Coote, Australian National University, Canberra, Australia
+2018 October-present, PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](http://rsc.anu.edu.au/~mcoote/index.html), Australian National University, Canberra, Australia
 
 2018 July-2018 September, Assistant Editor ([Materials](https://www.mdpi.com/journal/materials), [High-Throughput](https://www.mdpi.com/journal/high-throughput)), MDPI publisher, Beijing, China
 
-2015 September-2018 July, Master's degree (Applied Chemistry), Supervisor: Prof. Xiang-Yuan Li, Sichuan University, Chengdu, China
+2015 September-2018 July, Master's degree (Applied Chemistry), Supervisor: [Prof. Xiang-Yuan Li](http://ccg.scu.edu.cn/a/default.html), Sichuan University, Chengdu, China
 
 2011 September-2015 July, Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
 
@@ -25,7 +25,7 @@ My research is mainly about theoretical and computational chemistry. I develop a
 
 ### 1. Electrostatic catalysis in unusual solvent environment; 
 
-Achieving electrostatic catalysis in polar solvent is highly desirable, especially in some unusual solvent environment where the mean field approximation is invalid. For example, under some conditions, the normal solvent networks can be broken and the ordered solvent is formed, this is a very interesting phenomenon. In [2020JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643), employing classical molecular dynamic simulations with the Drude oscillator-based polarizable force field, quantum chemical calculations, and ONIOM (DFT:semi-empirical) multiscale calculations, we investiagted the potential of ordered solvent and ionic liquids in catalysing chemical reactions.
+Achieving electrostatic catalysis in polar solvent is highly desirable, especially in some unusual solvent environment where the mean field approximation is invalid. For example, under some conditions, the normal solvent networks can be broken and the ordered solvent is formed, this is a very interesting phenomenon. In [2020JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643) working with the group of [Prof.Ekaterina I Pas](https://mccg.erc.monash.edu/), employing classical molecular dynamic simulations with the Drude oscillator-based polarizable force field, quantum chemical calculations, and ONIOM (DFT:semi-empirical) multiscale calculations, we investiagted the potential of ordered solvent and ionic liquids in catalysing chemical reactions.
 
 ![Ordered solvent and ionic liquids](/images/TOC-300dpi.png)
 
