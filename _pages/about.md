@@ -53,6 +53,8 @@ Reviewers for the following journals: [JPCA](https://pubs.acs.org/journal/jpcafh
 
 ## Talks and Posters
 
+2020 December, [ASIL9](https://www.monash.edu/asil9), [poster](https://github.com/longkunxuluke/ordered_solvent/blob/master/ASIL9-Xu.pdf) and [video](https://www.youtube.com/watch?v=9JgCmZJXgn0), Zoom
+
 2019 October, [APATCC2019](https://www.apatcc2019.com/), poster, Sydney, Australia
 
 2017 June, [ncqc2017](http://www1.chemsoc.org.cn/meeting/home/info.asp?id=202), poster, Dalian, China
