@@ -21,7 +21,7 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 ## Research Interests
 
-My research is mainly about theoretical and computational chemistry. I develop and apply computational methods to study the effects of electrostatic environment on various chemical properties and reactions. 
+My research is mainly about theoretical and computational chemistry. I develop and apply computational methods to study chemical properties (photochemistry, redox potential, pKa, thermodynamics, etc), catalysis and reactions in electrostatic environment. 
 
 I think a good computational method should be theoretically simple, easy to use and generally effective for most systems. I think a good calculation should aim to predict something new that has never been reported or explain the physical mechanism that cannot be (fully) explained experimentally, not to repeat the experimental conclusion. 
 
