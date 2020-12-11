@@ -77,6 +77,8 @@ Teaching assistant for undergraduate course *Physical Chemistry* (2016)
 
 ## News 
 
+11 December 2020 Our [2020 Nat. Commun.](https://www.nature.com/articles/s41467-020-20186-0) was reported by several news platforms including [EurekAlert!](https://www.eurekalert.org/pub_releases/2020-12/cu-tbo121020.php).
+
 10 November 2020 Our [2020 JACS paper](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643) was reported by *Chemistry in Australia*, see page 14 in [here](https://chemaust.raci.org.au/sites/default/files/pdf/2020/CiA_Sept_Nov2020.pdf)
 
 6 July 2020 Our [2020 JACS paper](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643) was reported by a Chinese WeChat official account, see [here](https://mp.weixin.qq.com/s/nCGuLyn8P93AbFXVVCifkA)
