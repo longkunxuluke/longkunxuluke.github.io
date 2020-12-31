@@ -9,6 +9,8 @@ redirect_from:
 ---
 My name is Longkun Xu, people also call me Luke. I am currently a PhD student in [Prof. Michelle Coote group](http://rsc.anu.edu.au/~mcoote/index.html). I was born in Taian, China in 1993. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/my_CV.pdf). You can find my blog posts above, feel free to let me know your comments and questions via the email in the left sidebar.
 
+![WO](/images/WO.jpg)
+
 ## Education and Employment
 
 2018 October-present, PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](http://rsc.anu.edu.au/~mcoote/index.html), Australian National University, Canberra, Australia
