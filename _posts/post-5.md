@@ -24,7 +24,7 @@ This is a blog post collecting links to some useful resources (slides, videos, f
 
 [Lectures of Manolopoulos Group--Ring Polymer MD](http://manolopoulos.chem.ox.ac.uk/)
 
-[量子统计力学与动力学1：路径积分简介](http://bbs.keinsci.com/thread-21533-1-1.html)
+
 
 ### Scientific Programming
 
