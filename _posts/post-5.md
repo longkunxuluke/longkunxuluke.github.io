@@ -16,9 +16,9 @@ This is a blog post collecting links to some useful resources (slides, videos, f
 
 ### Classical Molecular Dynamic Simulations
 
-[University of Tennessee MSE 614 Course Website](http://utkstair.org/clausius/docs/mse614/text/notes.html) -- some slides about MD simulation and LAMMPS input files.
+[University of Tennessee MSE 614 Course Website](http://utkstair.org/clausius/docs/mse614/text/notes.html) 
 
-[Slides of Dr.Yanting Wang](http://ruanwuzhi.itp.ac.cn/77) -- some slides about thermodynamics and statistical physics, MD simulation and LAMMPS.
+[Slides of Dr.Yanting Wang](http://ruanwuzhi.itp.ac.cn/77) 
 
 ### Quantum Dynamics
 
