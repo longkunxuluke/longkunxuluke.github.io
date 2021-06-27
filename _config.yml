@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computational Solvation + X"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Longkun (Luke) Xu"
 description              : &description "A PhD student working on computational chemistry at ANU"
