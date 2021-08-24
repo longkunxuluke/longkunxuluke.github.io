@@ -23,7 +23,7 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 [09/2011]-[07/2015], Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
 
-![life-trajectory](/images/LongkunXU.png)
+
 
 ## Research Interests
 
