@@ -17,15 +17,15 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 [10/2018]-[10/2021], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](http://rsc.anu.edu.au/~mcoote/index.html), Australian National University, Canberra, Australia
 
-2018 July-2018 September, Assistant Editor ([Materials](https://www.mdpi.com/journal/materials), [High-Throughput](https://www.mdpi.com/journal/high-throughput)), MDPI publisher, Beijing, China
+[07/2018]-[9/2018], Assistant Editor ([Materials](https://www.mdpi.com/journal/materials), [High-Throughput](https://www.mdpi.com/journal/high-throughput)), MDPI publisher, Beijing, China
 
-2015 September-2018 July, Master's degree (Applied Chemistry), Supervisor: [Prof. Xiang-Yuan Li](http://ccg.scu.edu.cn/a/default.html), Sichuan University, Chengdu, China
+[09/2015]-[07/2018], Master's degree (Applied Chemistry), Supervisor: [Prof. Xiang-Yuan Li](http://ccg.scu.edu.cn/a/default.html), Sichuan University, Chengdu, China
 
-2011 September-2015 July, Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
+[09/2011]-[07/2015], Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
 
 ## Research Interests
 
-My research is mainly about theoretical and computational chemistry. I develop and apply both first-principle and data based computational methods to study chemical properties (photochemistry, redox potential, pKa, thermodynamics, etc), catalysis and reactions in various solvent environment. I am also interested in employing computational techniques for the design of drugs, batteries and materials.
+My research is mainly about theoretical and computational chemistry. I develop and apply both first-principle based and data driven computational methods to study chemical properties (photochemistry, redox potential, pKa, thermodynamics, etc), catalysis and reactions in various solvent environment. I am also interested in employing computational techniques and data science for the design of drugs, batteries and materials.
 
 I think a good computational method should be theoretically simple (elegant), easy to use (black-box) and generally effective for most systems (versatile). A good calculation should aim to predict something new that has never been reported or explain the physical mechanism that cannot be fully explained experimentally, not to repeat the experimental conclusion. 
 
@@ -59,11 +59,11 @@ Reviewers for the following journals: [JPCA](https://pubs.acs.org/journal/jpcafh
 
 ## Talks and Posters
 
-2020 December, [ASIL9](https://www.monash.edu/asil9), [poster](https://github.com/longkunxuluke/ordered_solvent/blob/master/ASIL9-Xu.pdf) and [video](https://www.youtube.com/watch?v=9JgCmZJXgn0), Zoom
+[12/2020], [ASIL9](https://www.monash.edu/asil9), [poster](https://github.com/longkunxuluke/ordered_solvent/blob/master/ASIL9-Xu.pdf) and [video](https://www.youtube.com/watch?v=9JgCmZJXgn0), Zoom
 
-2019 October, [APATCC2019](https://www.apatcc2019.com/), poster, Sydney, Australia
+[10/2019], [APATCC2019](https://www.apatcc2019.com/), poster, Sydney, Australia
 
-2017 June, [ncqc2017](http://www1.chemsoc.org.cn/meeting/home/info.asp?id=202), poster, Dalian, China
+[06/2017], [ncqc2017](http://www1.chemsoc.org.cn/meeting/home/info.asp?id=202), poster, Dalian, China
 
 ## Awards and Fellowships
 
@@ -83,9 +83,9 @@ Teaching assistant for undergraduate course *Physical Chemistry* (2016)
 
 ## News 
 
-11 December 2020 Our [2020 Nat. Commun.](https://www.nature.com/articles/s41467-020-20186-0) was reported by several news platforms including [EurekAlert!](https://www.eurekalert.org/pub_releases/2020-12/cu-tbo121020.php), [PHYS.ORG](https://phys.org/news/2020-12-tiny-electrodes-key-chemical.html) and [Chemistry in Australia](https://chemaust.raci.org.au/article/march-may-2021/electrified-bubbles.html).
+[12/2020] Our [2020 Nat. Commun.](https://www.nature.com/articles/s41467-020-20186-0) was reported by several news platforms including [EurekAlert!](https://www.eurekalert.org/pub_releases/2020-12/cu-tbo121020.php), [PHYS.ORG](https://phys.org/news/2020-12-tiny-electrodes-key-chemical.html) and [Chemistry in Australia](https://chemaust.raci.org.au/article/march-may-2021/electrified-bubbles.html).
 
-10 November 2020 Our [2020 JACS paper](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643) was reported by *Chemistry in Australia*, see page 14 in [here](https://chemaust.raci.org.au/sites/default/files/pdf/2020/CiA_Sept_Nov2020.pdf)
+[11/2020] Our [2020 JACS paper](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643) was reported by *Chemistry in Australia*, see page 14 in [here](https://chemaust.raci.org.au/sites/default/files/pdf/2020/CiA_Sept_Nov2020.pdf)
 
 
 
