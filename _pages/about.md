@@ -17,7 +17,7 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 [10/2018]-[10/2021], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](http://rsc.anu.edu.au/~mcoote/index.html), Australian National University, Canberra, Australia
 
-[07/2018]-[9/2018], Assistant Editor ([Materials](https://www.mdpi.com/journal/materials), [High-Throughput](https://www.mdpi.com/journal/high-throughput)), MDPI publisher, Beijing, China
+[07/2018]-[09/2018], Assistant Editor ([Materials](https://www.mdpi.com/journal/materials), [High-Throughput](https://www.mdpi.com/journal/high-throughput)), MDPI publisher, Beijing, China
 
 [09/2015]-[07/2018], Master's degree (Applied Chemistry), Supervisor: [Prof. Xiang-Yuan Li](http://ccg.scu.edu.cn/a/default.html), Sichuan University, Chengdu, China
 
