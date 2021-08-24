@@ -23,6 +23,8 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 [09/2011]-[07/2015], Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
 
+!life-trajectory](/images/LongkunXU.png)
+
 ## Research Interests
 
 My research is mainly about theoretical and computational chemistry. I develop and apply both first-principle based and data driven computational methods to study chemical properties (photochemistry, redox potential, pKa, thermodynamics, etc), catalysis and reactions in various solvent environment. I am also interested in employing computational techniques and data science for the design of drugs, batteries and materials.
