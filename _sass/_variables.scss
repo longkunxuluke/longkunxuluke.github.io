@@ -6,33 +6,6 @@
    Typography
    ========================================================================== */
 
-<style type="text/css">
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
-    font-weight: bold;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
-    font-style: italic, oblique;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
-    font-weight: bold;
-    font-style: italic, oblique;
-  }
-
-  body {
-    font-family: "Computer Modern", sans-serif;
-  }
-</style>
-
 $doc-font-size              : 16;
 
 /* paragraph indention */
@@ -54,7 +27,7 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
-$PLL                        : Computer Modern, sans-serif;
+$PLL                        : Palatino Linotype, serif;
 
 $global-font-family         : $PLL;
 $header-font-family         : $PLL;
