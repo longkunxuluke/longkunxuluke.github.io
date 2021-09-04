@@ -27,7 +27,7 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 ## Research Interests
 
-My research is mainly about theoretical and computational chemistry. I develop and apply both first-principle based and data driven computational methods to study chemical properties (photochemistry, redox potential, pKa, thermodynamics, etc), catalysis and reactions in various solvent environment. I am also interested in employing computational techniques and data science for the design of drugs, batteries and materials.
+My research is mainly about theoretical and computational chemistry. I develop and apply both first-principle based and data driven computational methods to study chemical properties (photochemistry, redox potential, pKa, thermodynamics, etc), catalysis and reactions in various solvent environment. I am also interested in employing computational techniques and data science for the design of drugs, batteries and materials, as well as other solving other real-world problems.
 
 I think a good computational method should be theoretically simple (elegant), easy to use (black-box) and generally effective for most systems (versatile). A good calculation should aim to predict something new that has never been reported or explain the physical mechanism that cannot be fully explained experimentally, not to repeat the experimental conclusion. 
 
