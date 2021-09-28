@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About
 
-My name is Longkun Xu, people also call me Luke. I am currently a PhD student in [Prof. Michelle Coote group](http://rsc.anu.edu.au/~mcoote/index.html). I was born in Taian (Shandong, China) in 1993. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV-LongkunXU.pdf) and [简历](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/%E7%AE%80%E5%8E%86-%E5%BE%90%E9%BE%99%E5%9D%A4.pdf). You can find my blog posts above, the posts are mainly tutorials to answer questions I have been asked, feel free to let me know your comments and questions via the email in the left sidebar.
+My name is Longkun Xu, people also call me Luke. I am currently a PhD student in [Prof. Michelle Coote group](http://rsc.anu.edu.au/~mcoote/index.html). I was born in Taian (Shandong, China) in 1993. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LongkunXU_28Sep2021_English.pdf) and [简历](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LongkunXU_28Sep2021_Chinese.pdf). You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/), which are mainly tutorials to answer questions I have been frequently asked, feel free to let me know your comments and questions via the email in the left sidebar.
 
 ![WO](/images/WO-2.jpg)
 
