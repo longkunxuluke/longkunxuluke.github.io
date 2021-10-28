@@ -15,7 +15,7 @@ My name is Longkun Xu, people also call me Luke. I am currently a PhD student in
 
 ## Education and Employment
 
-I am interested in jobs related with computational chemistry, data science and computer science. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LONGKUNXU_17OCT2021_ENGLISH.pdf) and [简历](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LONGKUNXU_19OCT2021_CHINESE.pdf).
+I am interested in jobs related with computational chemistry, data science and computer science. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LongkunXU_28OCT2021_EN.pdf) and [简历](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LONGKUNXU_19OCT2021_CHINESE.pdf).
 
 [10/2018]-[10/2021], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](http://rsc.anu.edu.au/~mcoote/index.html), Australian National University, Canberra, Australia
 
