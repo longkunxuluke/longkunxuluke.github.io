@@ -29,7 +29,7 @@ I am interested in jobs related with computational chemistry, data science and c
 
 ## Research Interests
 
-My research is mainly about theoretical and computational chemistry. I develop and apply both first-principle based and data driven computational methods to study chemical properties (photochemistry, redox potential, pKa, thermodynamics, etc), catalysis and reactions in various solvent environment. I am also interested in employing computational techniques and data science for the design of drugs, batteries and materials, as well as solving other real-world problems.
+My research is mainly about theoretical and computational chemistry. I develop and apply both first-principle based and data driven computational methods to study chemical properties (photochemistry, redox potential, pKa, thermodynamics, etc), catalysis and reactions in various solvent environment. I am also interested in employing computational techniques and data science for the design of drugs, batteries and materials, retrosynthesis, as well as solving other real-world problems beyond the domain of chemistry.
 
 I think a good computational method should be theoretically simple (elegant), easy to use (black-box & automatic) and generally effective for most systems (versatile). A good calculation should aim to predict something new that has never been reported or explain the physical mechanism that cannot be fully explained experimentally, not to repeat the experimental conclusion. 
 
