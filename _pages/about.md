@@ -15,7 +15,7 @@ My name is Longkun Xu, people also call me Luke. I am currently a computational 
 
 ## Education and Employment
 
-I am interested in jobs related with computational chemistry, data science and computer science. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LongkunXU_9DEC2021_En.pdf) and [简历](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LongkunXU_9DEC2021_Cn.pdf).
+I am interested in jobs related with computational chemistry, data science and computer science. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LongkunXU_12DEC2021_English.pdf) and [简历](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/CV_LongkunXU_12DEC2021_Chinese.pdf).
 
 [12/2021]-[Current], Computational Material Researcher Intern, [SAIT China Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do), Samsung Research China, Beijing, China
 
