@@ -96,7 +96,9 @@ Hailier Scholarship for Outstanding Students (2013)
 
 Teaching assistant for undergraduate course *Physical Chemistry* (2016)
 
-## News 
+## News
+
+[12/2021] Our [2021 JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.1c06385) was reported by *Chemistry in Australia*, see page 15 in [here](https://chemaust.raci.org.au/sites/default/files/pdf/2021/CiA_Dec21_web.pdf)
 
 [12/2020] Our [2020 Nat. Commun.](https://www.nature.com/articles/s41467-020-20186-0) was reported by several news platforms including [EurekAlert!](https://www.eurekalert.org/pub_releases/2020-12/cu-tbo121020.php), [PHYS.ORG](https://phys.org/news/2020-12-tiny-electrodes-key-chemical.html) and [Chemistry in Australia](https://chemaust.raci.org.au/article/march-may-2021/electrified-bubbles.html).
 
