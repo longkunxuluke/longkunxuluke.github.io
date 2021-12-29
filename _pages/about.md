@@ -37,30 +37,24 @@ I think a good computational method should be theoretically simple (elegant), ea
 
 I am particularly interested in the following topics:
 
-### 1. Computational Material Science
-
-After my PhD study, I joined SAIT China Lab and switched my research focus from computational solvation science to computational material science. I am interested in developing advanced machine learning algorithms for computational material science and employing these methods for the study of advanced materials including battery materials, display materials and semiconductor materials, etc.
-
-### 2. Computational Solvation Science
-
-### 2.1. Structures and properties of ionic liquids under external electric field;
+### 1. Structures and properties of ionic liquids under external electric field;
 Structures and properties of ionic liquids under external electric field is closely related with the design of ionic liquids based electrochemical devices. In [2021JACS](https://pubs.acs.org/doi/full/10.1021/jacs.1c06385), we analysed details of this topic using both computational and experimental techniques. A plateau in the open circuit potential (OCP) was observed upon application of an external electric field and its removal, which persisted in some ionic liquids over several hours. We propose this method as an easy and straightforward technique to characterize and compare the degree of order of different ionic liquids. Several parameters were also calculated using the trajectory of the polarizable molecular dynamic simulations to characterise the ordering of different ionic liquids. By considering ion dipole projection, the diffusion coefficient of the cation and its volume, a good correlation was found between the measured OCP and the calculated quantities for different ionic liquids, which offers a way to choose suitable ionic liquids for electrochemical applications.
 
 ![OCP](/images/publication5-toc.PNG.jpg)
 
-### 2.2. Electrostatic catalysis in unusual solvent environment; 
+### 2. Electrostatic catalysis in unusual solvent environment; 
 
 Achieving electrostatic catalysis in polar solvent is highly desirable, especially in some unusual and complex solvent environment where the mean field approximation is invalid. For example, under some conditions, the normal solvent networks can be broken and the ordered solvent is formed, this is a very interesting phenomenon. In [2020JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.0c05643) working with the group of [Prof.Ekaterina I Pas](https://mccg.erc.monash.edu/) employing classical molecular dynamic simulations with the Drude oscillator-based polarizable force field, quantum chemical calculations, and ONIOM (DFT:semi-empirical) multiscale calculations, we investiagted the potential of ordered solvent and ionic liquids in catalysing chemical reactions. Bubble surface is another unique electrostatic environment where high concentration of excess OH- exist, in [2020 Nat. Commun.](https://www.nature.com/articles/s41467-020-20186-0), we use GFN-XTB method based MD simulation and ONIOM(CCSD(T)/CBS:DHDFT) methods to help experimental collaborators ([Dr Simone Ciampi group](https://research.curtin.edu.au/supervisor/dr-simone-ciampi/)) prove that the high concentration of OH- can promote the oxidation potential of itself, which might be useful for further works in the fields of electrocatalysis and electrosynthesis. 
 
 ![Ordered solvent and ionic liquids](/images/TOC-300dpi.png)
 
-### 2.3. Improving the accuracy of implicit solvent models; 
+### 3. Improving the accuracy of implicit solvent models; 
 
 The implicit solvent models together with quantum chemical methods is the main strategy in modelling solution-phase properties and reactions. Thus, its accuracy in producing the solvation free energies is very important. In [2019JPCA](https://pubs.acs.org/doi/abs/10.1021/acs.jpca.9b04920), we disccussed different methods to improve the SMD solvation free energies and associated pKa values. In [2019JCTC](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00888), we presented the optimal electrostatic scaling factor (ESF) values in a wide range of solvents using PCM-UAHF and PCM-UAKS methods, we proposed the mixed-ESF method to improve the accuracy in calculating solution-phase properties.
 
 ![Improving the accuracy of implicit solvent models](/images/2019JCTC.png)
 
-### 2.4. Non-equilibrium solvation and solvent reorganization; 
+### 4. Non-equilibrium solvation and solvent reorganization; 
 
 Non-equilibrium solvation is an important conecpt originaly proposed by Prof. Rudolph A. Marcus in his well-known Marcus theory. It is a key factor in modelling the superfast processes in solution phase, for example, electron transfer and electronic excitation. Prof. Xiang-Yuan Li and co-workers have been working on implementing the constrained-equilibrium method in the non-equilibrium solvation theory. In [2017CPL](https://www.sciencedirect.com/science/article/pii/S000926141730427X), we derived the expressions of non-equilibrium solvation free energy within the framework of analytical Onsager model and applied it to model charge-transfer excited state. The theory was developed and implemented in the local Q-Chem program, see [2017PCCP](https://pubs.rsc.org/lv/content/articlehtml/2017/cp/c7cp05673g), [2018 PCCP HOT article](https://pubs.rsc.org/lv/content/articlelanding/2018/cp/c8cp00930a/unauth#!divAbstract) and [2017CP](https://www.sciencedirect.com/science/article/pii/S0301010417301398).
 
