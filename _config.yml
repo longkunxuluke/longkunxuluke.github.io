@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Longkun (Luke) Xu"
-description              : &description "A PhD student working on computational chemistry at ANU"
+name                     : &name "Longkun Xu"
+description              : &description "Computational Materials Researcher, SAIT China Lab, Samsung Electronics"
 url                      : https://longkunxuluke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longkunxuluke/longkunxuluke.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Longkun (Luke) Xu"
+  name             : "Longkun Xu"
   avatar           : "WATER.png"
-  bio              : "A PhD student working on computational chemistry at ANU"
-  location         : "Canberra, Australia"
+  bio              : "Computational Materials Researcher, SAIT China Lab, Samsung Electronics"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7Fw-D-ij5lbX9Hz-SGAArAhX2kJzpEDo8lpgxcLGA_2gVzoohQ8sly4unyhAJwFTzn-mMd2YBK0cy1B-ISdnHuzNJ8nqaNLDRH4TnpOYJG050i8Ec&user=rl6uU0YAAAAJ"
-  email            : "Longkun.Xu@anu.edu.au"
+  email            : "longkunx@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Longkun_Xu/research" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/longkun-xu-356a85125/"
   orcid            : "https://orcid.org/0000-0001-7314-2913"
   pinterest        :
   soundcloud       :
