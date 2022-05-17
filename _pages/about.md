@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Longkun Xu, people also call me Luke. 
 
-I am currently a computational materials researcher intern at SAIT China lab, Samsung Electronics, where I am working on the intersection of AI, HPC and computational material science to design materials used in Samsung products, e.g., battery, display and semiconductors materials. Previously I was a PhD student at the Australian National University.
+I am currently an engineer at SAIT China lab, Samsung Electronics, where I am working on the intersection of AI, HPC and computational material science to design materials used in Samsung products, e.g., battery, display and semiconductors materials. Previously I was a PhD student at the Australian National University.
 
 I have 7 years experience (2015-2022) with computational chemistry and also have hands-on experience with machine learning and academic publishing industry. I am familiar with Python, SQL, R, Julia, web data, high performance computing, neural network potential, etc.
 
