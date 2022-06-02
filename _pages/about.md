@@ -37,7 +37,7 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Research Interests
 
-My research is mainly about the following keywords: computational chemistry, AI, HPC, solvation, battery and materials design, drug discovery and retrosynthesis. 
+My research is mainly about the following keywords: computational chemistry, AI, HPC, solvation, battery and materials design, drug discovery and retrosynthesis. More introductions to my current and previous research interests can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf). 
 
 I think a good computational method development should be theoretically simple (elegant), easy to use (black-box & automatic) and generally effective for most systems (versatile). A good calculational applications should aim to offer new physical insights and guide the design of products. 
 
