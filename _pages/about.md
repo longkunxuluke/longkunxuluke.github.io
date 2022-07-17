@@ -11,11 +11,11 @@ redirect_from:
 
 My name is Longkun Xu, people also call me Luke. 
 
-I am currently an engineer at SAIT China lab, Samsung Electronics, where I am working on the intersection of AI, HPC and computational material science to design materials used in Samsung products, e.g., battery, display and semiconductors materials. Previously I was a PhD student at the Australian National University.
+I am currently an engineer at SAIT China lab, Samsung Electronics, where I am working on the intersection of AI, HPC and computational material science to design materials used in Samsung products, e.g., battery, display and semiconductors materials. I obtained my PhD degree at the Australian National University.
 
 I have 7 years experience (2015-2022) with computational chemistry and also have hands-on experience with machine learning and academic publishing industry. I am familiar with Python, SQL, R, Julia, web data, high performance computing, neural network potential, etc.
 
-I am interested in any job using computational science, AI and HPC to solve real-world pratical problems within and beyond the domain of chemistry, e.g., battery and material design, drug discovery and retrosynthesis, etc. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/LongkunXU_CV.pdf) and [简历](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/%E5%BE%90%E9%BE%99%E5%9D%A4_%E7%AE%80%E5%8E%86.pdf).
+I have a wide spectrum of research interests related with using computational science, AI and HPC to solve real-world pratical problems within and beyond the domain of chemistry, e.g., battery and material design, drug discovery and retrosynthesis, etc. Here's my [CV](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/LongkunXU_CV.pdf) and [简历](https://github.com/longkunxuluke/longkunxuluke.github.io/blob/master/%E5%BE%90%E9%BE%99%E5%9D%A4_%E7%AE%80%E5%8E%86.pdf).
 
 You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/), which are some tutorials used to answer questions I have been frequently asked, feel free to let me know your comments and questions.You can contact me via longkunx@gmail.com
 
@@ -23,9 +23,7 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Education and Employment
 
-[05/2022]-[Current], Engineer, [SAIT China Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do), Samsung Electronics, Beijing, China
-
-[12/2021]-[05/2022], Intern, [SAIT China Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do), Samsung Electronics, Beijing, China
+[12/2021]-[Current], Engineer (05/2022 - Current) Intern (12/2021 - 05/2022), [SAIT China Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do), Samsung Electronics, Beijing, China
 
 [10/2018]-[10/2021], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](https://cootelab.com/), Australian National University, Canberra, Australia
 
@@ -37,14 +35,14 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Research Interests
 
-My research is mainly about the following keywords: computational chemistry, AI, HPC, solvation, battery and materials design, drug discovery and retrosynthesis. More introductions to my current and previous research interests can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf). 
+My research is mainly about the following keywords: computational chemistry, AI for Science, HPC, solvation, battery and materials design, drug discovery and retrosynthesis. More introductions to my current and previous research interests can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf). 
 
 I think a good computational method development should be theoretically simple (elegant), easy to use (black-box & automatic) and generally effective for most systems (versatile). A good calculational applications should aim to offer new physical insights and guide the design of products. 
 
 I am particularly interested in the following topics:
 
-### 1. AI for Materials
-After joining Samsung, my research focus was changed to *AI for Materials*. I am working on the intersection of AI, HPC and computational material science to design materials used in Samsung products, e.g., battery, display and semiconductors materials.
+### 1. AI for Science
+After joining Samsung, my research focus was changed to *AI for Science*. I am working on the intersection of AI, HPC and computational chemistry/materials to design materials used in Samsung products, e.g., battery, display and semiconductors materials.
 
 ### 2. Computational Solvation Science
 ### 2.1. Structures and properties of ionic liquids under external electric field;
