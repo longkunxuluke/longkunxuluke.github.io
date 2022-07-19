@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Longkun Xu, people also call me Luke. 
 
-I am currently an engineer at SAIT China lab, Samsung Electronics, where I am working on the intersection of AI, HPC and computational material science to design materials used in Samsung products, e.g., battery, display and semiconductors materials. I obtained my PhD degree at the Australian National University.
+I am currently an engineer at SAIT China lab, Samsung Electronics, where I am working on the intersection of AI, HPC and computational material science to design materials used in Samsung products, e.g., battery, display and semiconductors materials. I obtained my PhD degree at the Australian National University in 2022.
 
 I have 7 years experience (2015-2022) with computational chemistry and also have hands-on experience with machine learning and academic publishing industry. I am familiar with Python, SQL, R, Julia, web data, high performance computing, neural network potential, etc.
 
@@ -25,7 +25,7 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 [12/2021]-[Current], Engineer (05/2022 - Current) Intern (12/2021 - 05/2022), [SAIT China Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do), Samsung Electronics, Beijing, China
 
-[10/2018]-[10/2021], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](https://cootelab.com/), Australian National University, Canberra, Australia
+[10/2018]-[04/2022], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](https://cootelab.com/), Australian National University, Canberra, Australia
 
 [07/2018]-[09/2018], Assistant Editor ([Materials](https://www.mdpi.com/journal/materials), [High-Throughput](https://www.mdpi.com/journal/high-throughput)), MDPI publisher, Beijing, China
 
