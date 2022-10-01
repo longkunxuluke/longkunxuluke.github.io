@@ -44,6 +44,8 @@ I am particularly interested in the following topics:
 ### 1. AI for Science
 After joining Samsung, my research focus was changed to *AI for Science*. I am working on the intersection of AI, HPC and computational chemistry/materials to design materials used in Samsung products, e.g., battery, display and semiconductors materials.
 
+Specifically my current interests include machine learning potential (with long-range interactions and field effects), automatic differentiation algorithms, deep generative models, and their applications into enhanced sampling method, force field optimization, molecular generation and material property prediction.
+
 ### 2. Computational Solvation Science
 ### 2.1. Structures and properties of ionic liquids under external electric field;
 Structures and properties of ionic liquids under external electric field is closely related with the design of ionic liquids based electrochemical devices. In [2021JACS](https://pubs.acs.org/doi/full/10.1021/jacs.1c06385), we analysed details of this topic using both computational and experimental techniques. A plateau in the open circuit potential (OCP) was observed upon application of an external electric field and its removal, which persisted in some ionic liquids over several hours. We propose this method as an easy and straightforward technique to characterize and compare the degree of order of different ionic liquids. Several parameters were also calculated using the trajectory of the polarizable molecular dynamic simulations to characterise the ordering of different ionic liquids. By considering ion dipole projection, the diffusion coefficient of the cation and its volume, a good correlation was found between the measured OCP and the calculated quantities for different ionic liquids, which offers a way to choose suitable ionic liquids for electrochemical applications.
@@ -72,7 +74,7 @@ Non-equilibrium solvation is an important conecpt originaly proposed by Prof. Ru
 
 ## Peer Review
 
-Reviewers for the following journals: [JPCA](https://pubs.acs.org/journal/jpcafh)
+Reviewers for the following journals and conferences: [JPCA](https://pubs.acs.org/journal/jpcafh), [NeurIPS 2022 "AI for Science" Workshop](https://ai4sciencecommunity.github.io/)
 
 ## Talks and Posters
 
