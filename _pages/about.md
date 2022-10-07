@@ -44,7 +44,7 @@ I am particularly interested in the following topics:
 ### 1. AI for Science
 After joining Samsung, my research focus was changed to *AI for Science*. I am working on the intersection of AI, HPC and computational chemistry/materials to design materials used in Samsung products, e.g., battery, display and semiconductors materials.
 
-Specifically my current interests include machine learning potential (with long-range interactions and field effects), automatic differentiation algorithms, deep generative models, and their applications into enhanced sampling method, force field optimization, molecular generation and material property prediction.
+Specifically my current interests include machine learning potential (with long-range interactions and field effects), automatic differentiation algorithms, deep generative models, graph theory, and their applications into interface modelling, enhanced sampling method, force field optimization, molecular generation, material property prediction and chemical reaction networks, etc.
 
 ### 2. Computational Solvation Science
 ### 2.1. Structures and properties of ionic liquids under external electric field;
