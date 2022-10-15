@@ -74,7 +74,7 @@ Non-equilibrium solvation is an important conecpt originaly proposed by Prof. Ru
 
 ## Peer Review
 
-Reviewers for the following journals and conferences: [JPCA](https://pubs.acs.org/journal/jpcafh), [NeurIPS 2022 "AI for Science" Workshop](https://ai4sciencecommunity.github.io/)
+Reviewers for the following journals and conferences: [JPCA](https://pubs.acs.org/journal/jpcafh), [NeurIPS 2022](https://ai4sciencecommunity.github.io/)
 
 ## Talks and Posters
 
