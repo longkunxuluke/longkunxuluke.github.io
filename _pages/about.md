@@ -23,7 +23,7 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Education and Employment
 
-[12/2021]-[Current], Engineer (05/2022 - Current) Intern (12/2021 - 05/2022), [SAIT China Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do), Samsung Electronics, Beijing, China
+[12/2021]-[Current], Engineer (05/2022 - Current) <- Intern (12/2021 - 05/2022), [SAIT China Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do), Samsung Research China-Beijing (SRC-B)
 
 [10/2018]-[04/2022], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](https://cootelab.com/), Australian National University, Canberra, Australia
 
