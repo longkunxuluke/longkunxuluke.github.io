@@ -11,11 +11,7 @@ redirect_from:
 
 My name is Longkun Xu, people also call me Luke. 
 
-I am currently an engineer at SAIT China lab, Samsung Electronics, where I am working on the intersection of AI, HPC and computational material science to design materials used in Samsung products, e.g., battery, display and semiconductors materials. I obtained my PhD degree at the Australian National University in 2022.
-
-I have 7 years experience (2015-2022) with computational chemistry and also have hands-on experience with machine learning and academic publishing industry. I am familiar with Python, SQL, R, Julia, web data, high performance computing, neural network potential, etc.
-
-I have a wide spectrum of research interests related with using computational science, AI and HPC to solve real-world pratical problems within and beyond the domain of chemistry, e.g., battery and material design, drug discovery and retrosynthesis, etc. 
+I earned my PhD in computational chemistry at the Australian National University in 2022. After that I joined Samsung Research China-Beijing (SRC-B) as an engineer. My research interests focus on method development of computational chemistry and computational materials, AI for Science, HPC and quantum computing, and their applications in (battery, display, semiconductor) materials design, solvation, protein design and drug discovery, reaction networks and retrosynthesis. I published 12 papers in journals including JACS, Nature Communication, JCTC, JPCL, JPCC, JPCA. My research was highlighted in AI for Science Global Outlook 2023 Edition, EurekAlert!, PHYS.ORG, Chemistry in Australia. I server as reviewer for ICML2023, NeurIPS(2022, 2023) and JPCA.
 
 You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/), which are some tutorials used to answer questions I have been frequently asked, feel free to let me know your comments and questions.You can contact me via longkunx@gmail.com
 
