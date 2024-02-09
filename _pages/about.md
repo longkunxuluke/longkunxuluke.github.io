@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About
+## About (Updated: 2024-02-09)
 
 My name is Longkun Xu, people also call me Luke. 
 
@@ -19,7 +19,7 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Education and Employment
 
-[12/2021]-[Current], Engineer (05/2022 - Current) <- Intern (12/2021 - 05/2022), [SAIT China Lab](https://www.sait.samsung.co.kr/saithome/about/labs.do), Samsung Research China-Beijing (SRC-B)
+[12/2021]-[Current], Engineer (05/2022 - Current) <- Intern (12/2021 - 05/2022), Samsung Research China-Beijing (SRC-B)
 
 [10/2018]-[04/2022], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](https://cootelab.com/), Australian National University, Canberra, Australia
 
@@ -31,16 +31,24 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Research Interests
 
-My research is mainly about the following keywords: computational chemistry, AI for Science, HPC, solvation, battery and materials design, drug discovery and retrosynthesis. More introductions to my current and previous research interests can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf) and our [book chapter](https://www.elsevier.com/books/annual-reports-on-computational-chemistry/dixon/978-0-323-99092-9). 
+My research interests focus on method development of computational chemistry and computational materials, AI for Science, HPC and
+quantum computing, and their applications in (battery, display, semiconductor) materials design, solvation
+and electrostatic interactions, protein design and drug discovery, reaction networks and retrosynthesis. More introductions to my current and previous research projects can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf) and our [book chapter](https://www.elsevier.com/books/annual-reports-on-computational-chemistry/dixon/978-0-323-99092-9). 
 
-I think a good computational method development should be theoretically simple (elegant), easy to use (black-box & automatic) and generally effective for most systems (versatile). A good calculational applications should aim to offer new physical insights and guide the design of products. 
+*Research Value*: I think a good computational method development should be theoretically fundamental (use math and physics to solve issues, not by tuning parameters), easy to use (black-box, automatic and open-source) and generally effective for most chemical systems (versatile). A good calculational applications should aim to offer new physical insights and guide the design of products. 
 
 I am particularly interested in the following topics:
 
 ### 1. AI for Science
-After joining Samsung, my research focus was changed to *AI for Science*. I am working on the intersection of AI, HPC and computational chemistry/materials to design materials used in Samsung products, e.g., battery, display and semiconductors materials.
+Specifically my current interests in *AI for Science* include machine learning potential (with long-range interactions and field effects), automatic differentiation algorithms, deep generative models, graph theory, and their applications into interface modelling, enhanced sampling method, force field optimization, molecular generation, material property prediction and chemical reaction networks, etc.
 
-Specifically my current interests include machine learning potential (with long-range interactions and field effects), automatic differentiation algorithms, deep generative models, graph theory, and their applications into interface modelling, enhanced sampling method, force field optimization, molecular generation, material property prediction and chemical reaction networks, etc.
+With our co-workers, we developed SIS-MLPMD, a new method to sample training data of machine learning potentials based
+on temperature stability in MD simulation. Applied the method to study the long-time reactive dynamics of
+SEI formation process at the interface of Lithium metal batteries, see [2023 JPCC](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c05522). 
+
+We also developed a method to use multi-fidelity training data of JAX-ReaxFF and DFT to reduce the
+computational costs in training SchNet and MACE based machine learning potentials. The method was
+employed to study a diverse range of properties of 2D semiconductor materials, see [2024 JPCL](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c03080).
 
 ### 2. Computational Solvation Science
 ### 2.1. Structures and properties of ionic liquids under external electric field;
@@ -66,11 +74,12 @@ Non-equilibrium solvation is an important conecpt originaly proposed by Prof. Ru
 
 ![Non-equilibrium solvation and solvent reorganization](/images/2017CPL.png)
 
-### The full list of my publications can be found from the google scholar in the left sidebar.
+*The full list of my publications can be found from the google scholar in the left sidebar.*
 
-## Peer Review
+## Peer Review Service
 
-Reviewers for the following journals and conferences: [JPCA](https://pubs.acs.org/journal/jpcafh), [NeurIPS 2022](https://ai4sciencecommunity.github.io/)
+Reviewers for the following journals and conferences: eurIPS2023 workshop (AI4Science, GenBio), ICML 2023 workshop (SPIGM), NeurIPS2022
+workshop (AI4Science), JPCA
 
 ## Talks and Posters
 
@@ -81,6 +90,8 @@ Reviewers for the following journals and conferences: [JPCA](https://pubs.acs.or
 [06/2017], [ncqc2017](http://www1.chemsoc.org.cn/meeting/home/info.asp?id=202), poster, Dalian, China
 
 ## Awards and Fellowships
+
+Samsung Excellent Proposal Award (2023)
 
 Postgraduate Research Support (2020)
 
@@ -93,6 +104,10 @@ Second Class Scholarship for Gruduate Student (2015-2018)
 Hailier Scholarship for Outstanding Students (2013)
 
 ## Teaching Service
+
+Mentored Interns: 
+- Kehan Wang (2022-2023 @Samsung, Now: PhD student @Tsinghua)
+- Mingwei Ge(2022 @Samsung, Now: PhD student @Yale)
 
 Teaching assistant for undergraduate course *Physical Chemistry* (2016)
 
