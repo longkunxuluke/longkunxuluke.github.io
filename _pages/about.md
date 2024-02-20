@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About *(Updated: 2024-02-09)*
+## About *(Updated: 2024-02-20)*
 
 My name is Longkun Xu, people also call me Luke. 
 
@@ -33,8 +33,17 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 My research interests focus on method development of computational chemistry and computational materials, AI for Science, HPC and
 quantum computing, and their applications in (battery, display, semiconductor) materials design, solvation
-and electrostatic interactions, protein design and drug discovery, reaction networks and retrosynthesis. More introductions to my current and previous research projects can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf) and our [book chapter](https://www.elsevier.com/books/annual-reports-on-computational-chemistry/dixon/978-0-323-99092-9). 
+and electrostatic interactions, protein design and drug discovery, reaction networks and retrosynthesis. More introductions to my current and previous research projects can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf) and our [book chapter](https://www.elsevier.com/books/annual-reports-on-computational-chemistry/dixon/978-0-323-99092-9).
 
+Following are some related keywords appeared in my papers:
+
+- *Computational Chemistry*: quantum chemistry, MD simulation, multi-scale calculation, ...
+- *AI & Quantum*: machine learning potentials, generative AI, quantum computing for quantum chemistry, ...
+- *Solvation*: electrolyte solution, ionic liquids, electrostatic and polarization interactions, external electric field, ...
+- *Materials*: battery, OLED, semiconductors, ...
+- *Biology*: drug, peptide, protein, ...
+- *Synthesis*: synthetic accessibility, retrosynthesis, ...
+  
 *Research Value*: I think a good computational method development should be theoretically fundamental (use math and physics to solve issues, not by tuning parameters), easy to use (black-box, automatic and open-source) and generally effective for most chemical systems (versatile). A good calculational applications should aim to offer new physical insights and guide the design of products. 
 
 I am particularly interested in the following topics:
