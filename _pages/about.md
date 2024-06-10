@@ -19,27 +19,25 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Education and Employment
 
-[12/2021]-[Current], Engineer (05/2022 - Current) <- Intern (12/2021 - 05/2022), Samsung Research China-Beijing (SRC-B)
+[12/2021]-[Current], Engineer (05/2022 - Current) <- Intern (12/2021 - 05/2022), Samsung Research China-Beijing (SRC-B), Beijing, China
 
-[10/2018]-[04/2022], PhD student (Chemistry), Supervisor: [Prof. Michelle Coote](https://cootelab.com/), Australian National University, Canberra, Australia
+[10/2018]-[04/2022], PhD student (Computational Chemistry), Australian National University, Canberra, Australia
 
-[07/2018]-[09/2018], Assistant Editor ([Materials](https://www.mdpi.com/journal/materials), [High-Throughput](https://www.mdpi.com/journal/high-throughput)), MDPI publisher, Beijing, China
+[07/2018]-[09/2018], Assistant Editor, MDPI publisher, Beijing, China
 
-[09/2015]-[07/2018], Master's degree (Applied Chemistry), Supervisor: [Prof. Xiang-Yuan Li](http://ccg.scu.edu.cn/a/default.html), Sichuan University, Chengdu, China
+[09/2015]-[07/2018], Master's degree (Applied Chemistry), Sichuan University, Chengdu, China
 
 [09/2011]-[07/2015], Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
 
 ## Research Interests
 
-My research interests focus on method development of computational chemistry and computational materials, AI for Science, HPC and
-quantum computing, and their applications in (battery, display, semiconductor) materials design, solvation
-and electrostatic interactions, protein design and drug discovery, reaction networks and retrosynthesis. More introductions to my current and previous research projects can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf) and our [book chapter](https://www.elsevier.com/books/annual-reports-on-computational-chemistry/dixon/978-0-323-99092-9).
+More introductions to my current and previous research projects can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf) and our [book chapter](https://www.elsevier.com/books/annual-reports-on-computational-chemistry/dixon/978-0-323-99092-9).
 
-Following are some related keywords appeared in my papers:
+Following are some related keywords often appeared in my papers:
 
 - *Computational Chemistry*: quantum chemistry, MD simulation, multi-scale calculation, ...
-- *AI*: machine learning potentials, generative AI, ...
-- *Quantum Simulation*: quantum computing for quantum chemistry, HPC, ...
+- *AI for Science*: machine learning potentials, generative AI for molecular generation, ...
+- *Quantum Computating and HPC*: quantum computing for quantum chemistry, HPC, ...
 - *Molecular and Materials Science*:
   - *Solvation*: electrolyte solution, ionic liquids, electrostatic and polarization interactions, external electric field, ...
   - *Materials*: battery, OLED, semiconductors, ...
@@ -52,11 +50,13 @@ I am particularly interested in the following topics:
 ### 1. AI for Science
 Specifically my current interests in *AI for Science* include machine learning potential (with long-range interactions and field effects), automatic differentiation algorithms, deep generative models, graph theory, and their applications into interface modelling, enhanced sampling method, force field optimization, molecular generation, material property prediction and chemical reaction networks, etc.
 
-With our co-workers, we developed SIS-MLPMD, a new method to sample training data of machine learning potentials based
+Particularly I am interested in developing data efficient deep learning models. With my co-workers, we propose two strategies: stability indicated sampling (SIS) and using multi-fidelity training data.
+
+For the first one, we developed SIS-MLPMD, a new method to sample training data of machine learning potentials based
 on temperature stability in MD simulation. Applied the method to study the long-time reactive dynamics of
 SEI formation process at the interface of Lithium metal batteries, see [2023 JPCC](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c05522). 
 
-We also developed a method to use multi-fidelity training data of JAX-ReaxFF and DFT to reduce the
+For the second one, we developed a method to use multi-fidelity training data of JAX-ReaxFF and DFT to reduce the
 computational costs in training SchNet and MACE based machine learning potentials. The method was
 employed to study a diverse range of properties of 2D semiconductor materials, see [2024 JPCL](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c03080).
 
@@ -88,8 +88,8 @@ Non-equilibrium solvation is an important conecpt originaly proposed by Prof. Ru
 
 ## Peer Review Service
 
-Reviewers for the following journals and conferences: *NeurIPS2023 workshop (AI4Science, GenBio), ICML 2023 workshop (SPIGM), NeurIPS2022
-workshop (AI4Science), JPCA*
+Reviewers for the following journals and conferences: *ICML 2024 workshop (AI4Science, SPIGM), NeurIPS2023 workshop (AI4Science, GenBio), ICML
+2023 workshop (SPIGM), NeurIPS2022 workshop (AI4Science), JCTC, JPCA*
 
 ## Talks and Posters
 
@@ -122,6 +122,8 @@ Mentored Interns:
 Teaching assistant for undergraduate course *Physical Chemistry* (2016)
 
 ## News
+
+[8/2023] Our [2023 JPCC](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c05522) was reported by *AI for Science Global Outlook 2023 Edition*, see page 179 in [here](https://image.deeptechchina.com/2023%E7%89%88%E3%80%8A%E7%A7%91%E5%AD%A6%E6%99%BA%E8%83%BD%28AI4S%29%E5%85%A8%E7%90%83%E5%8F%91%E5%B1%95%E8%A7%82%E5%AF%9F%E4%B8%8E%E5%B1%95%E6%9C%9B%E3%80%8B.pdf)
 
 [12/2021] Our [2021 JACS](https://pubs.acs.org/doi/abs/10.1021/jacs.1c06385) was reported by *Chemistry in Australia*, see page 15 in [here](https://chemaust.raci.org.au/sites/default/files/pdf/2021/CiA_Dec21_web.pdf)
 
