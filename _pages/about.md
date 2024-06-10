@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About *(Updated: 2024-02-20)*
+## About *(Updated: 2024-06-10)*
 
 My name is Longkun Xu, people also call me Luke. 
 
-I earned my PhD in computational chemistry at the _Australian National University_ in 2022, under the guidance of [Prof. Michelle Coote](https://cootelab.com/). After that I joined _Samsung Research China-Beijing (SRC-B)_ as an engineer. My research interests focus on method development of computational chemistry and computational materials, AI for Science, HPC and quantum computing, and their applications in (battery, display, semiconductor) materials design, solvation and electrostatic interactions, protein design and drug discovery, reaction networks and retrosynthesis. I published 12 papers in journals including _JACS_, _Nature Communication_, _JCTC_, _JPCL_, _JPCC_, _JPCA_. My research was highlighted in media including _AI for Science Global Outlook 2023 Edition_, _EurekAlert!_, _PHYS.ORG_, _Chemistry in Australia_. I server as a reviewer for _ICML2023_, _NeurIPS(2022, 2023)_ and _JPCA_.
+I earned my PhD in computational chemistry at the _Australian National University_ in 2022, under the guidance of [Prof. Michelle Coote](https://cootelab.com/). After that I joined _Samsung Research China-Beijing (SRC-B)_ as an engineer. My research interests focus on method development of computational chemistry and computational materials, AI for Science, HPC and quantum computing, as well as the application of their related algorithms in industry scenarios such as batteries, OLEDs, semiconductors, and drugs. I published 10+ papers in journals including _JACS_, _Nature Communication_, _JCTC_, _JPCL_, _JPCC_, _JPCA_. My research was highlighted in media including _AI for Science Global Outlook 2023 Edition_, _EurekAlert!_, _PHYS.ORG_, _Chemistry in Australia_. I server as a reviewer for _ICML(2024, 2023)_, _NeurIPS(2023, 2022)_, _JCTC_, and _JPCA_.
 
 You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/), which are some tutorials used to answer questions I have been frequently asked, feel free to let me know your comments and questions.You can contact me via longkunx@gmail.com
 
