@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About *(Updated: 2024-06-10)*
+## About *(Updated: 2024-07-08)*
 
 My name is Longkun Xu, people also call me Luke. 
 
@@ -19,7 +19,7 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Education and Employment
 
-[12/2021]-[Current], Engineer (05/2022 - Current) <- Intern (12/2021 - 05/2022), Samsung Research China-Beijing (SRC-B), Beijing, China
+[12/2021]-[07/2024], Engineer (05/2022 - 07/2024) <- Intern (12/2021 - 05/2022), Samsung Research China-Beijing (SRC-B), Beijing, China
 
 [10/2018]-[04/2022], PhD student (Computational Chemistry), Australian National University, Canberra, Australia
 
