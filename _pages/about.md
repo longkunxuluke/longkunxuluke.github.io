@@ -51,8 +51,9 @@ Following are some related keywords often appeared in my papers:
 - *Quantum Computating and HPC*: quantum computing for quantum chemistry, HPC, ...
 - *Molecular and Materials Science*:
   - *Solvation*: electrolyte solution, ionic liquids, electrostatic and polarization interactions, external electric field, ...
-  - *Materials*: battery, OLED, semiconductors, ...
+  - *Materials*: battery, OLED, semiconductors, capacitor, aluminum foil, fluorine chemicals...
   - *Biology*: drug, peptide, protein, synthetic accessibility, retrosynthesis, ...
+- *BMS Algorithms*
   
 *Research Value*: I think a good computational method development should be theoretically fundamental (use math and physics to solve issues, not by tuning parameters), easy to use (black-box, automatic and open-source) and generally effective for most chemical systems (versatile). A good calculational applications should aim to offer new physical insights and guide the design of products. 
 
@@ -127,7 +128,7 @@ Hailier Scholarship for Outstanding Students (2013)
 ## Teaching Service
 
 Mentored Interns: 
-- Kehan Wang (2022-2023 @Samsung, Now: PhD student @Tsinghua)
+- Kehan Wang (2022-2023 @Samsung, Now: Researcher @China Telecom)
 - Mingwei Ge (2022 @Samsung, Now: PhD student @Yale)
 
 Teaching assistant for undergraduate course *Physical Chemistry* (2016)
