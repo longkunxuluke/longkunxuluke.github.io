@@ -77,7 +77,7 @@ For the second one, we developed a method to use multi-fidelity training data of
 computational costs in training SchNet and MACE based machine learning potentials. The method was
 employed to study a diverse range of properties of 2D semiconductor materials, see [2024 JPCL](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c03080).
 
-![data_efficient_ai4s](/images/images_medium_jp3c05522_0006)
+![data_efficient_ai4s](/images/ai4s.png)
 
 ### 3. Computational Solvation Science
 ### 3.1. Structures and properties of ionic liquids under external electric field;
