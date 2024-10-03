@@ -77,6 +77,8 @@ For the second one, we developed a method to use multi-fidelity training data of
 computational costs in training SchNet and MACE based machine learning potentials. The method was
 employed to study a diverse range of properties of 2D semiconductor materials, see [2024 JPCL](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c03080).
 
+![data_efficient_ai4s](/images/images_medium_jp3c05522_0006)
+
 ### 3. Computational Solvation Science
 ### 3.1. Structures and properties of ionic liquids under external electric field;
 Structures and properties of ionic liquids under external electric field is closely related with the design of ionic liquids based electrochemical devices. In [2021JACS](https://pubs.acs.org/doi/full/10.1021/jacs.1c06385), we analysed details of this topic using both computational and experimental techniques. A plateau in the open circuit potential (OCP) was observed upon application of an external electric field and its removal, which persisted in some ionic liquids over several hours. We propose this method as an easy and straightforward technique to characterize and compare the degree of order of different ionic liquids. Several parameters were also calculated using the trajectory of the polarizable molecular dynamic simulations to characterise the ordering of different ionic liquids. By considering ion dipole projection, the diffusion coefficient of the cation and its volume, a good correlation was found between the measured OCP and the calculated quantities for different ionic liquids, which offers a way to choose suitable ionic liquids for electrochemical applications.
