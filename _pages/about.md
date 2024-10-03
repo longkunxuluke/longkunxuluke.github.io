@@ -63,6 +63,8 @@ I am particularly interested in the following topics:
 
 Image segmentation methods can make huge contributions in studying materials science. A large number of features can be extracted from segmented materials images to correlate with target materials properties for better and more efficient materials design. At HEC, I develop a method using SAM based image segmentation methods for analysing SEM images of battery cathode materials, from segmented images over 260 relevant features of particles can be extracted to predict properties of cathode materials. I have built a web app associated with the algorithm, using flask and html techniques. The web app has been successfully used by experimental researchers at HEC.
 
+![sam4sem](/images/sam4sem.png)
+
 ### 2. Data-efficient AI4S
 
 My interests in *AI4S* include machine learning potential (with long-range interactions and field effects), automatic differentiation algorithms, deep generative models, graph theory, and their applications into interface modelling, enhanced sampling method, force field optimization, molecular generation, material property prediction and chemical reaction networks, etc.
