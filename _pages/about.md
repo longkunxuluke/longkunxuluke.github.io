@@ -7,17 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About *(Updated: 02-Oct-2024)*
+## About Me *(Updated: 24-Oct-2024)*
 
 My name is Longkun Xu, people also call me Luke. 
 
 I earned my PhD in _computational chemistry_ at the _Australian National University_ in 2022,
 under the supervision of _Prof. Michelle Coote_. After that I joined _Samsung Research China-Beijing (SRC-B)_
 and worked as an research engineer. In July 2024 I joined _Dongyangguang (HEC) New Energy Research
-Institute_ as a senior researcher. My research interests focus on method development of computational
-chemistry and computational materials, AI for Science and Science for AI, HPC and quantum computing, and their applications
-in many industrial scenarios including battery, display, semiconductor, capacitor, aluminum foil, fluorine
-chemicals, and BMS algorithms. I have published 10+ papers in journals including _JACS, Nature
+Institute_ as a senior researcher. My current research projects involves image enhancement and segmentation of battery materials, conditional molecule generation, lifetime prediction of capacitors, deep learning based catalyst simulation and optimization. I have published 10+ papers in journals including _JACS, Nature
 Communication, JCTC, JPCL, JPCC, JPCA_. My research was highlighted in _AI for Science Global Outlook
 2023 Edition, EurekAlert!, PHYS.ORG, Chemistry in Australia_. I server as a reviewer for AI conferences
 _ICML(2023, 2024), NeurIPS(2022, 2023)_ and chemical journals including _JCTC_ and _JPCA_.
