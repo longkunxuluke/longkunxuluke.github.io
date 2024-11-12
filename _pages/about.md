@@ -14,7 +14,7 @@ My name is Longkun Xu, people also call me Luke.
 I earned my PhD in _computational chemistry_ at the _Australian National University_ in 2022,
 under the supervision of _Prof. Michelle Coote_. After that I joined _Samsung Research China-Beijing (SRC-B)_
 and worked as an research engineer. In July 2024 I joined _Dongyangguang (HEC) New Energy Research
-Institute_ as a senior researcher. I'm interested in the intersection of physical simulation, data science and advanced computing algorithms, with an emphasis on applications in engineering and science related with battery, OLED, semiconductor, etc. I have published 10+ papers in journals including _JACS, Nature
+Institute_ as a senior researcher. I'm interested in the intersection of physical simulation, data science and advanced computing algorithms, with an emphasis on applications in engineering and science related with battery, capacitors, OLED, semiconductor, etc. I have published 10+ papers in journals including _JACS, Nature
 Communication, JCTC, JPCL, JPCC, JPCA_. My research was highlighted in _AI for Science Global Outlook
 2023 Edition, EurekAlert!, PHYS.ORG, Chemistry in Australia_. I server as a reviewer for AI conferences
 _ICML(2023, 2024), NeurIPS(2022, 2023)_ and chemical journals including _JCTC_ and _JPCA_.
