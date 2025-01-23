@@ -31,8 +31,6 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 [10/2018]-[04/2022], PhD student (Computational Chemistry), Australian National University, Canberra, Australia
 
-[07/2018]-[09/2018], Assistant Editor, MDPI publisher, Beijing, China
-
 [09/2015]-[07/2018], Master's degree (Applied Chemistry), Sichuan University, Chengdu, China
 
 [09/2011]-[07/2015], Bachelor's degree (Material Chemistry), Qingdao Agricultural University, Qingdao, China
