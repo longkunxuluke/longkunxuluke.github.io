@@ -14,7 +14,7 @@ My name is Longkun Xu, people also call me Luke.
 I earned my PhD in computational chemistry at the Australian National University in 2022,
 under the supervision of Prof. Michelle Coote. Afterward, I worked at Samsung R&D Institute China -
 Beijing (SRC-B) and Dongyangguang New Energy Research Institute (HEC), where I am a core R&D
-member, leads several projects. My research interests focus on the intersection of computational chemistry,
+member and lead several projects. My research interests focus on the intersection of computational chemistry,
 deep learning, advanced computing, image processing and electronic materials (e.g., battery, capacitor, OLED,
 semiconductor, drugs). I have published 10+ papers in journals including JACS, Nature Communication,
 JCTC, JPCL, JPCC, JPCA. My research was highlighted in AI for Science Global Outlook 2023 Edition,
