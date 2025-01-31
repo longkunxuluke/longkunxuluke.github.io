@@ -7,19 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me *(Updated: 24-Oct-2024)*
+## About Me *(Updated: 31-Jan-2025)*
 
 My name is Longkun Xu, people also call me Luke. 
 
-I earned my PhD in _computational chemistry_ at the _Australian National University_ in 2022,
-under the supervision of _Prof. Michelle Coote_. After that I joined _Samsung Research China-Beijing (SRC-B)_
-and worked as an research engineer. In July 2024 I joined _Dongyangguang (HEC) New Energy Research
-Institute_ as a senior researcher. I'm interested in the intersection of physical simulation, data science and advanced computing algorithms, with an emphasis on applications in engineering and science related with battery, capacitors, OLED, semiconductor, etc. I have published 10+ papers in journals including _JACS, Nature
-Communication, JCTC, JPCL, JPCC, JPCA_. My research was highlighted in _AI for Science Global Outlook
-2023 Edition, EurekAlert!, PHYS.ORG, Chemistry in Australia_. I server as a reviewer for AI conferences
-_ICML(2023, 2024), NeurIPS(2022, 2023)_ and chemical journals including _JCTC_ and _JPCA_.
+I earned my PhD in computational chemistry at the Australian National University in 2022,
+under the supervision of Prof. Michelle Coote. Afterward, I worked at Samsung R&D Institute China -
+Beijing (SRC-B) and Dongyangguang New Energy Research Institute (HEC), where I am a core R&D
+member, leads several projects. My research interests focus on the intersection of computational chemistry,
+deep learning, advanced computing, image processing and electronic materials (e.g., battery, capacitor, OLED,
+semiconductor, drugs). I have published 10+ papers in journals including JACS, Nature Communication,
+JCTC, JPCL, JPCC, JPCA. My research was highlighted in AI for Science Global Outlook 2023 Edition,
+EurekAlert!, PHYS.ORG, Chemistry in Australia. I server as a reviewer for AI conferences ICLR (2025),
+ICML(2023, 2024), NeurIPS(2022, 2023) and chemical journals including JCTC and JPCA.
 
-You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/), which are some tutorials used to answer questions I have been frequently asked, feel free to let me know your comments and questions.You can contact me via longkunx@gmail.com
+You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/), which are some tutorials used to answer questions I have been frequently asked, feel free to let me know your comments and questions. You can contact me via longkunx@gmail.com
 
 ![WO](/images/WO-2.jpg)
 
