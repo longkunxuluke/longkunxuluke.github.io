@@ -41,30 +41,29 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 More introductions to my current and previous research projects can be found in my [PhD thesis](https://web.archive.org/web/20220422085348id_/https://openresearch-repository.anu.edu.au/bitstream/1885/261844/1/LongkunXU_Thesis_2022.pdf) and our [book chapter](https://www.elsevier.com/books/annual-reports-on-computational-chemistry/dixon/978-0-323-99092-9).
 
-Following are some related keywords often appeared in my papers:
+Following are some related keywords often appeared in my papers/projects:
 
 - *Computational Chemistry*: quantum chemistry, MD simulation, multi-scale calculation, ...
-- *AI for Science*: machine learning potentials, generative AI for molecular generation, ...
-- *Quantum Computating and HPC*: quantum computing for quantum chemistry, HPC, ...
-- *Molecular and Materials Science*:
-  - *Solvation*: electrolyte solution, ionic liquids, electrostatic and polarization interactions, external electric field, ...
-  - *Materials*: battery, OLED, semiconductors, capacitor, aluminum foil, fluorine chemicals...
-  - *Biology*: drug, peptide, protein, synthetic accessibility, retrosynthesis, ...
-- *BMS Algorithms*
+- *Deep Learning*: machine learning potentials, generative AI for molecular generation, ...
+- *Advanced Computing*: quantum computing for quantum chemistry, HPC, ...
+- *Image Processing*: Image enhancement/segmentation, OCR, object detection, ...
+- *Electronic Materials*: battery, OLED, semiconductors, capacitor, ...
   
-*Research Value*: I think a good computational method development should be theoretically fundamental (use math and physics to solve issues, not by tuning parameters), easy to use (black-box, automatic and open-source) and generally effective for most chemical systems (versatile). A good calculational applications should aim to offer new physical insights and guide the design of products. 
+*Research Value*: I think a good computational method development should be theoretically fundamental (use math and physics to solve issues, not by tuning parameters), easy to use (black-box, automatic and open-source) and generally effective for most systems (versatile). A good calculational applications should aim to offer new scientific insights and guide the design of commericial products. 
 
 I am particularly interested in the following topics:
 
-### 1. Materials Images Segmentation
+### 1. Images Processing in Material Science
 
 Image segmentation methods can make huge contributions in studying materials science. A large number of features can be extracted from segmented materials images to correlate with target materials properties for better and more efficient materials design. At HEC, I develop a method using SAM based image segmentation methods for analysing SEM images of battery cathode materials, from segmented images over 260 relevant features of particles can be extracted to predict properties of cathode materials. I have built a web app associated with the algorithm, using flask and html techniques. The web app has been successfully used by experimental researchers at HEC.
 
 ![sam4sem](/images/sam4sem.png)
 
-### 2. Data-efficient AI4S
+### 2. Data-efficient AI4S 
 
 My interests in *AI4S* include machine learning potential (with long-range interactions and field effects), automatic differentiation algorithms, deep generative models, graph theory, and their applications into interface modelling, enhanced sampling method, force field optimization, molecular generation, material property prediction and chemical reaction networks, etc.
+
+### 2.1 Machine learning potential
 
 Particularly I am interested in developing data efficient deep learning models, as data shortage is one central challenge of AI4S. With my co-workers, we propose two strategies: stability indicated sampling (SIS) and using multi-fidelity training data.
 
@@ -78,7 +77,11 @@ employed to study a diverse range of properties of 2D semiconductor materials, s
 
 ![data_efficient_ai4s](/images/ai4s.png)
 
-### 3. Computational Solvation Science
+### 2.2 Molecular generation and discovery
+
+[TADF-GEN](https://chemrxiv.org/engage/chemrxiv/article-details/670727cacec5d6c142bb50b2)
+
+### 3. Multi-scale computational chemistry methods
 ### 3.1. Structures and properties of ionic liquids under external electric field;
 Structures and properties of ionic liquids under external electric field is closely related with the design of ionic liquids based electrochemical devices. In [2021JACS](https://pubs.acs.org/doi/full/10.1021/jacs.1c06385), we analysed details of this topic using both computational and experimental techniques. A plateau in the open circuit potential (OCP) was observed upon application of an external electric field and its removal, which persisted in some ionic liquids over several hours. We propose this method as an easy and straightforward technique to characterize and compare the degree of order of different ionic liquids. Several parameters were also calculated using the trajectory of the polarizable molecular dynamic simulations to characterise the ordering of different ionic liquids. By considering ion dipole projection, the diffusion coefficient of the cation and its volume, a good correlation was found between the measured OCP and the calculated quantities for different ionic liquids, which offers a way to choose suitable ionic liquids for electrochemical applications.
 
@@ -106,8 +109,7 @@ Non-equilibrium solvation is an important conecpt originaly proposed by Prof. Ru
 
 ## Peer Review Service
 
-Reviewers for the following journals and conferences: *ICML 2024 workshop (AI4Science, SPIGM), NeurIPS2023 workshop (AI4Science, GenBio), ICML
-2023 workshop (SPIGM), NeurIPS2022 workshop (AI4Science), JCTC, JPCA*
+Reviewers for the following journals and conferences: *ICLR 2025 workshop (FPI),ICML 2024 workshop (AI4Science, SPIGM), NeurIPS2023 workshop (AI4Science, GenBio), ICML 2023 workshop (SPIGM), NeurIPS2022 workshop (AI4Science), JCTC, JPCA*
 
 ## Talks and Posters
 
