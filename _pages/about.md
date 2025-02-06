@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me *(Updated: 6-Feb-2025)*
 
-!!! **We are hiring full-time researchers/interns who have expertise in *multiphysics simulation* and (or) *large language models* and (or) *failure analysis*. If you are interested, can directly send me your CV.**
+!!! **We are hiring full-time researchers/interns who have expertise in *multiphysics simulation* and (or) *large language models* and (or) *reliability/failure analysis*. If you are interested, can directly send me your CV.**
 
 
 My name is Longkun Xu, people also call me Luke. 
