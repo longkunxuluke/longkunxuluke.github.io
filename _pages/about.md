@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me *(Updated: 31-Jan-2025)*
+## About Me *(Updated: 6-Feb-2025)*
+
+### **We are hiring full-time researchers/interns who have expertise in *multiphysics simulation* and (or) *large language models*. If you are interested, can directly send me your CV.**
+
 
 My name is Longkun Xu, people also call me Luke. 
 
