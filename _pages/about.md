@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me *(Updated: 7-Sep-2025)*
 
-My name is Longkun Xu, people also call me Luke. Currently I am an AI algorithm enginner at Ecoflow, working with [Dr. Rui Li](https://scholar.google.com/citations?user=V-21UXUAAAAJ&hl=en) on self-evolving agents.
+My name is Longkun Xu, people also call me Luke. Currently I am an AI algorithm engineer at Ecoflow, working with [Dr. Rui Li](https://scholar.google.com/citations?user=V-21UXUAAAAJ&hl=en) on self-evolving agents.
 
 Previously I worked for Samsung R&D Institute China - Beijing (SRC-B, with [Dr. Qiang Wang](https://scholar.google.com/citations?user=rhuzgdgAAAAJ&hl=zh-CN) on data-efficient AI4S methods including machine learning potentials and molecular generation) and Dongyangguang New Energy Research Institute (HEC, working on scientific images process with computer vision techniques, smart manufacturing and optimization, high-throughput molecular screening and generation, and multi-scale multi-physics simulation).
 
