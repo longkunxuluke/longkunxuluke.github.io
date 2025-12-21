@@ -21,7 +21,7 @@ under the supervision of [Prof. Michelle Coote](https://scholar.google.com/citat
 I have published 10+ papers in journals including JACS, Nature Communication,
 JCTC, JPCL, JPCC, JPCA. My research was highlighted in AI for Science Global Outlook 2023 Edition,
 EurekAlert!, PHYS.ORG, Chemistry in Australia. I server as a reviewer for AI conferences ICLR (2025),
-ICML(2023, 2024), NeurIPS(2022, 2023) and chemical journals including JCTC and JPCA.
+ICML(2023, 2024), NeurIPS(2022, 2023) and chemistry journals including JCTC and JPCA.
 
 You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/), which are some tutorials used to answer questions I have been frequently asked, feel free to let me know your comments and questions. You can contact me via longkunx@gmail.com
 
