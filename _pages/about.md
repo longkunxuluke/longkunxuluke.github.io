@@ -9,12 +9,14 @@ redirect_from:
 ---
 ## About Me *(Updated: 21-Dec-2025)*
 
-My name is Longkun Xu, people also call me Luke. Currently I am an AI algorithm engineer at [Ecoflow](https://www.ecoflow.com/cn), working on self-evolving agents for code generation of time series algorithms for solar energy forecasting and load forecasting tasks.
+My name is Longkun Xu, people also call me Luke. 
+
+Currently I am an AI algorithm engineer at [Ecoflow](https://www.ecoflow.com/cn), working on self-evolving agents for code generation of time series algorithms for solar energy forecasting and load forecasting tasks.
 
 Previously I worked for [Samsung Research China - Beijing](https://research.samsung.com/src-b) (SRC-B, with [Dr. Qiang Wang](https://scholar.google.com/citations?user=rhuzgdgAAAAJ&hl=zh-CN) on data-efficient AI4S methods including machine learning potentials and molecular generation for applications in battery/semiconductor/OLED domains) and [Dongyangguang New Energy Research Institute](https://www.hec.cn/) (HEC, working on a wide range of topics including processing battery & capacitor images with computer vision techniques, smart manufacturing and optimization with PID controller & Bayesian optimization, high-throughput molecular screening and generation, and multi-scale multi-physics simulation).
 
-I earned my PhD in computational chemistry at the Australian National University in 2022,
-under the supervision of [Prof. Michelle Coote](https://scholar.google.com/citations?user=TiX18tcAAAAJ&hl=zh-CN). My PhD thesis is on developing more accurate solvation models and studying complex electrostatic environment.
+I earned my PhD in computational chemistry at the [Australian National University](https://www.anu.edu.au/) in 2022,
+under the supervision of [Prof. Michelle Coote](https://scholar.google.com/citations?user=TiX18tcAAAAJ&hl=zh-CN). My PhD thesis is on developing more accurate solvation models and studying complex electrostatic environment, e.g., using quantum chemical calculations and MD simulations for simulating liquids under electric field.
 
 I have published 10+ papers in journals including JACS, Nature Communication,
 JCTC, JPCL, JPCC, JPCA. My research was highlighted in AI for Science Global Outlook 2023 Edition,
