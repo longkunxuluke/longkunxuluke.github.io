@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me *(Updated: 21-Dec-2025)*
+## About Me *(Updated: 19-April-2026)*
 
 My name is Longkun Xu, people also call me Luke. 
 
-Currently I am an AI algorithm engineer at [Ecoflow](https://www.ecoflow.com/cn), working on self-evolving agents for code generation of time series algorithms for solar energy forecasting and load forecasting tasks.
+Currently I am an AI algorithm engineer at [Ecoflow](https://www.ecoflow.com/cn), working on self-evolving agents for code generation and deep research of time series algorithms for tasks in solar energy forecasting and load forecasting.
 
 Previously I worked for [Samsung Research China - Beijing](https://research.samsung.com/src-b) (SRC-B, with [Dr. Qiang Wang](https://scholar.google.com/citations?user=rhuzgdgAAAAJ&hl=zh-CN) on data-efficient AI4S methods including machine learning potentials and molecular generation for applications in battery/semiconductor/OLED domains) and [Dongyangguang New Energy Research Institute](https://www.hec.cn/) (HEC, working on a wide range of topics including processing battery & capacitor images with computer vision techniques, smart manufacturing and optimization with PID controller & Bayesian optimization, high-throughput molecular screening and generation, and multi-scale multi-physics simulation).
 
@@ -29,7 +29,7 @@ You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/)
 
 ## Peer Review Service
 
-Reviewers for the following journals and conferences: *ICLR 2025 workshop (FPI),ICML 2024 workshop (AI4Science, SPIGM), NeurIPS2023 workshop (AI4Science, GenBio), ICML 2023 workshop (SPIGM), NeurIPS2022 workshop (AI4Science), JCTC, JPCA*
+Reviewers for the following journals and conferences: *ICML 2026 workshop (SPIGM), ICLR 2025 workshop (FPI),ICML 2024 workshop (AI4Science, SPIGM), NeurIPS2023 workshop (AI4Science, GenBio), ICML 2023 workshop (SPIGM), NeurIPS2022 workshop (AI4Science), JCTC, JPCA*
 
 ## Talks and Posters
 
