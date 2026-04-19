@@ -25,7 +25,7 @@ ICML(2023, 2024), NeurIPS(2022, 2023) and chemistry journals including JCTC and 
 
 You can find my blog posts [here](https://longkunxuluke.github.io/year-archive/), which are some tutorials used to answer questions I have been frequently asked, feel free to let me know your comments and questions. You can contact me via longkunx@gmail.com
 
-![WO](/images/WO-2.jpg)
+![WO](/images/1775899568840.png)
 
 ## Peer Review Service
 
